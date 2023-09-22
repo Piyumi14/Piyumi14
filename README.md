@@ -3,7 +3,7 @@
 
 <h3 align="center">Software Engineer at OpusXenta</h3>
 <h3 align="center">BSc(Hons) in Information Technology specialization in Software Engineering.</h3>
-<h3 align="center">MSc in Advanced Software Engineering.</h3>
+<h3 align="center">MSc in Advanced Software Engineering.</h3><br>
 
 
 - 🔭 I’m currently working on [OpusXenta(Opuspay)](https://opuspay.co/login)
