@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyumi Dayarathna</h1>
 <h3 align="center">git commit -m "Do My Best..."</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyumi14" alt="piyumi14" /></a> </p>
-
 - 🔭 I’m currently working on [Opusxenta(Opuspay)](https://opuspay.co/login)
 
 - 📫 How to reach me **lbpmdayarathna@gmail.com**
